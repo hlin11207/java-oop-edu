@@ -20,6 +20,12 @@ src/
         │   └── bai08/
         └── tuan05/
             └── bai09/
+        ├── tuan06/
+        ├── tuan07/
+        ├── tuan08/
+        │   └── qlSV/
+        ├── tuan09/
+        └── tuan10/
 ```
 
 ## Danh sách bài tập
@@ -53,6 +59,19 @@ src/
 - `CongNhan.java`
 - `DanhSachCongNhan.java`
 - `Main.java`
+
+### Tuần 08 - qlSV: Quản lý sinh viên
+
+- `IFSinhVien.java`
+- `ListSinhVien.java`
+- `MonHoc.java`
+- `SinhVien.java`
+- `SinhVienChinhQui.java`
+- `SinhVienTuXa.java`
+
+### Tuần 06, 07, 09 và 10
+
+Các thư mục tuần đã được tạo sẵn để bổ sung bài tập tiếp theo.
 
 ## Cách tổ chức bài mới
 
