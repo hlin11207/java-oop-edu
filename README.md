@@ -84,6 +84,14 @@ src/
 - `SinhVienChinhQui.java`
 - `SinhVienTuXa.java`
 
+### Tuần 10 - kiemTra: Quản lý sản phẩm
+
+- `QuanLySanPham.java`
+- `SanPham.java`
+- `SanPhamDienTu.java`
+- `SanPhamThucPham.java`
+- `TestSanPham.java`
+
 ### Tuần 06, 07, 09 và 10
 
 Các thư mục tuần đã được tạo sẵn để bổ sung bài tập tiếp theo.
