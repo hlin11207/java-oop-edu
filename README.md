@@ -60,6 +60,12 @@ src/
 - `DanhSachCongNhan.java`
 - `Main.java`
 
+### Tuần 06 - hoanglinh_25694981: Quản lý thực phẩm
+
+- `HangThucPham.java`
+- `QuanLyThucPham.java`
+- `Main.java`
+
 ### Tuần 07 - NguyenHoangLinh_25694981: Quản lý khách hàng điện
 
 - `IQuanLyKH.java`
