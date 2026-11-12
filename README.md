@@ -60,6 +60,15 @@ src/
 - `DanhSachCongNhan.java`
 - `Main.java`
 
+### Tuần 07 - NguyenHoangLinh_25694981: Quản lý khách hàng điện
+
+- `IQuanLyKH.java`
+- `KhachHang.java`
+- `KhachHangNN.java`
+- `KhachHangVN.java`
+- `QuanLyKH.java`
+- `TestQuanLyKH.java`
+
 ### Tuần 08 - qlSV: Quản lý sinh viên
 
 - `IFSinhVien.java`
